@@ -20,7 +20,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | | | **Unit 2 - Foundations of Data Modeling** | |
 | 3 | 3/15 | [Introduction to Regression and Model Fit](./classes/06) | **[Unit Project 2](./unit-projects/2) due** (extended) |
 | 4 | 3/17 | [Introduction to Regression and Model Fit, Part 2](./classes/07) | |
-| 4 | 3/22 | Introduction to Classification | **[Final Project 1](./final-project/1) due**; Final Project 2 assigned |
+| 4 | 3/22 | [Introduction to Classification](./classes/08) | **[Final Project 1](./final-project/1) due**; Final Project 2 assigned |
 | 5 | 3/24 | Introduction to Logistic Regression | **[Unit Project 3](./unit-projects/3) due**; Unit Project 4 assigned |
 | 5 | 3/29 | Communicating Logistic Regression Results | **Unit Project 4 due** |
 | 6 | 3/31 | Flexible Class Session | |

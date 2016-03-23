@@ -6,6 +6,6 @@ The dataset contains four variables: `admit`, `gre`, `gpa`, and `prestige`:
 - `admit` is a binary variable.  It indicates whether or not a candidate was admitted into UCLA (`admit = 1`) our not (`admit = 0`).
 - `gre` is the GRE score.  GRE stands for Graduate Record Examination.
 - `gpa` stands for Grade Point Average.
-- `prestige` is the prestige of an applicant alta mater, with 1 being the lowest (not prestigious) and 4 as the highest (high prestige).
+- `prestige` is the prestige of an applicant alta mater, with 1 being the highest (high prestige) and 4 as the lowest (not prestigious).
 
 Dataset: [admissions.csv](./admissions.csv)
