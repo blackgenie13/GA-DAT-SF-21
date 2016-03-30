@@ -22,20 +22,20 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 4 | 3/17 | [Introduction to Regression and Model Fit, Part 2](./classes/07) | |
 | 4 | 3/22 | [Introduction to Classification](./classes/08) | **[Final Project 1](./final-project/1) due**; [Final Project 2](./final-project/2) assigned |
 | 5 | 3/24 | [Introduction to Logistic Regression](./classes/09) | [Unit Project 4](./unit-projects/4) assigned |
-| 5 | 3/29 | Flexible Class Session | **[Unit Project 3](./unit-projects/3) due** (extended); |
-| 6 | 3/31 | Communicating Logistic Regression Results | **[Unit Project 4](./unit-projects/4) due** (extended) |
+| 5 | 3/29 | Flexible Class Session | **[Unit Project 3](./unit-projects/3) due** (extended) |
+| 6 | 3/31 | Advanced Metrics and Communicating Results | **[Unit Project 4](./unit-projects/4) due** (extended) |
 | | | **Unit 3 - Data Science in the Real World** | |
 | 6 | 4/5 | Decision Trees and Random Forests | |
-| 7 | 4/7 | Natural Language Processing | |
-| 7 | 4/12 | Dimensionality Reduction | **Final Project 2 due**; Final Project 3 assigned |
-| 8 | 4/14 | Time Series Data I | |
-| 8 | 4/19 | Time Series Data II | **Final Project 3 due**; Final Project 4 assigned |
-| 9 | 4/21 | Database Technologies | |
-| 9 | 4/26 | Where to Go Next | **Final Project 4 due**; Final Project 5 assigned |
-| 10 | 4/28 | Flexible Class Session | |
-| 10 | 5/3 | Final Project Presentations | **Final Project 5 due** |
+| 7 | 4/7 | Natural Language Processing and Text Classification | |
+| 7 | 4/12 | Latent Variables and Natural Language Processing | **Final Project 2 due**; Final Project 3 assigned |
+| 8 | 4/14 | Time Series Data | |
+| 8 | 4/19 | Time Series Data, Part 2 | **Final Project 3 due**; Final Project 4 assigned |
+| 9 | 4/21 | Introduction to Databases | |
+| 9 | 4/26 | Advancing in Data Science | **Final Project 4 due**; Final Project 5 assigned |
+| 10 | 4/28 | Final Project Presentations | **Final Project 5 due**  |
+| 10 | 5/3 | Final Project Presentations, Part 2 | |
 
-(Syllabus last updated on 3/25/2016)
+(Syllabus last updated on 3/29/2016)
 
 (Flexible class sessions will be finalized after student goals are defined)
 
@@ -79,4 +79,4 @@ You've all been invited to use [Slack](https://sf-dat-21.slack.com) for chat dur
 | [2](./final-project/2) | Experiment Write-Up | Create an outline of your research design approach, including hypothesis, assumptions, goals, and success metrics | 3/22 | 4/12 6:30PM Pacific |
 | 3 | Exploratory Analysis | Confirm your data and create an exploratory analysis notebook with stat analysis and visualization | 4/12 | 4/19 6:30PM Pacific |
 | 4 | Notebook Draft | Detailed iPython technical notebook with a summary of your statistical analysis, model, and evaluation metrics | 4/19 | 4/26 6:30PM Pacific |
-| 5 | Presentation | Detailed presentation deck that relates your data, model, and findings to a non-technical audience | 4/26 | 5/3 12:00PM Pacific |
+| 5 | Presentation | Detailed presentation deck that relates your data, model, and findings to a non-technical audience | 4/26 | 4/28 12:00PM Pacific |
