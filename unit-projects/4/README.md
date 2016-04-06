@@ -8,7 +8,7 @@
 >
 > - Present materials in class.
 > - Submit presentation to instructor via email.
-> - Please submit your homework via Slack.  In order to submit your assignment please send a private message to Michael Twardos.  TODO
+> - Please submit your homework via GitHub and send a private message on [Slack](https://sf-dat-21.slack.com) to Azi or Jeremiah with a link to it.
 
 ---
 
