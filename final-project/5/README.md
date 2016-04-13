@@ -2,7 +2,7 @@
 
 > **Assigned:** Tuesday, April 12, 2016.
 >
-> **Deadline:** Thursday, April 26, 2016 6:00PM Pacific Time.
+> **Deadline:** Thursday, April 28, 2016 6:00PM Pacific Time.
 >
 > **Submission:**
 >
