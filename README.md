@@ -27,12 +27,12 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | | | **Unit 3 - Data Science in the Real World** | |
 | 6 | 4/5 | [Decision Trees and Random Forests](./classes/12) | |
 | 7 | 4/7 | [Natural Language Processing and Text Classification](./classes/13) | |
-| 7 | 4/12 | [Latent Variables and Natural Language Processing](./classes/14) | **Final Project 2 due**; Final Projects [3](./unit-projects/3), [4](./unit-projects/4), and [5](./unit-projects/5) assigned |
+| 7 | 4/12 | [Latent Variables and Natural Language Processing](./classes/14) | **[Final Project 2](./final-project/2) due**; Final Projects [3](./final-project/3), [4](./final-project/4), and [5](./final-project/5) assigned |
 | 8 | 4/14 | Time Series Data | |
-| 8 | 4/19 | Time Series Data, Part 2 | **[Final Project 3](./unit-projects/3) due** |
+| 8 | 4/19 | Time Series Data, Part 2 | **[Final Project 3](./final-project/3) due** |
 | 9 | 4/21 | Introduction to Databases | |
-| 9 | 4/26 | Advancing in Data Science | **[Final Project 4](./unit-projects/4) due** |
-| 10 | 4/28 | Final Project Presentations | **[Final Project 5](./unit-projects/5) due**  |
+| 9 | 4/26 | Advancing in Data Science | **[Final Project 4](./final-project/4) due** |
+| 10 | 4/28 | Final Project Presentations | **[Final Project 5](./final-project/5) due**  |
 | 10 | 5/3 | Final Project Presentations, Part 2 | |
 
 (Syllabus last updated on 4/12/2016)
