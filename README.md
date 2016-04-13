@@ -27,15 +27,15 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | | | **Unit 3 - Data Science in the Real World** | |
 | 6 | 4/5 | [Decision Trees and Random Forests](./classes/12) | |
 | 7 | 4/7 | [Natural Language Processing and Text Classification](./classes/13) | |
-| 7 | 4/12 | [Latent Variables and Natural Language Processing](./classes/14) | **Final Project 2 due**; Final Project 3 assigned |
+| 7 | 4/12 | [Latent Variables and Natural Language Processing](./classes/14) | **Final Project 2 due**; Final Projects [3](./unit-projects/3), [4](./unit-projects/4), and [5](./unit-projects/5) assigned |
 | 8 | 4/14 | Time Series Data | |
-| 8 | 4/19 | Time Series Data, Part 2 | **Final Project 3 due**; Final Project 4 assigned |
+| 8 | 4/19 | Time Series Data, Part 2 | **[Final Project 3](./unit-projects/3) due** |
 | 9 | 4/21 | Introduction to Databases | |
-| 9 | 4/26 | Advancing in Data Science | **Final Project 4 due**; Final Project 5 assigned |
-| 10 | 4/28 | Final Project Presentations | **Final Project 5 due**  |
+| 9 | 4/26 | Advancing in Data Science | **[Final Project 4](./unit-projects/4) due** |
+| 10 | 4/28 | Final Project Presentations | **[Final Project 5](./unit-projects/5) due**  |
 | 10 | 5/3 | Final Project Presentations, Part 2 | |
 
-(Syllabus last updated on 3/29/2016)
+(Syllabus last updated on 4/12/2016)
 
 (Flexible class sessions will be finalized after student goals are defined)
 
@@ -77,6 +77,6 @@ You've all been invited to use [Slack](https://sf-dat-21.slack.com) for chat dur
 |:---:|:---|:---|:---:|:---:|
 | [1](./final-project/1) | Lightning Presentation | Prepare a one-minute lightning talk that covers 3 potential project topics | 2/25 | 3/22 12:00PM Pacific |
 | [2](./final-project/2) | Experiment Write-Up | Create an outline of your research design approach, including hypothesis, assumptions, goals, and success metrics | 3/22 | 4/12 6:30PM Pacific |
-| 3 | Exploratory Analysis | Confirm your data and create an exploratory analysis notebook with stat analysis and visualization | 4/12 | 4/19 6:30PM Pacific |
-| 4 | Notebook Draft | Detailed iPython technical notebook with a summary of your statistical analysis, model, and evaluation metrics | 4/19 | 4/26 6:30PM Pacific |
-| 5 | Presentation | Detailed presentation deck that relates your data, model, and findings to a non-technical audience | 4/26 | 4/28 12:00PM Pacific |
+| [3](./final-project/3) | Exploratory Analysis | Confirm your data and create an exploratory analysis notebook with stat analysis and visualization | 4/12 | 4/19 6:30PM Pacific |
+| [4](./final-project/4) | Notebook Draft | Detailed iPython technical notebook with a summary of your statistical analysis, model, and evaluation metrics | 4/12 | 4/26 6:30PM Pacific |
+| [5](./final-project/5) | Presentation | Detailed presentation deck that relates your data, model, and findings to a non-technical audience | 4/12 | 4/28 6:00PM Pacific |
