@@ -81,7 +81,7 @@ A 10 to 20 slide deck consisting of:
 
 ### Starter Code
 
-- Refer to the [presentation template](../02-experiment-writeup/project-design-template.md) as a blueprint for how to organize your work.
+- Refer to the [presentation template](../2/FP2-template.md) as a blueprint for how to organize your work.
 
 ### Suggestions for Getting Started
 

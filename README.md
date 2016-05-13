@@ -31,11 +31,11 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 8 | 4/14 | [Time Series Data](./classes/15) | |
 | 8 | 4/19 | [Time Series Data, Part 2](./classes/16) | **[Final Project 3](./final-project/3) due** |
 | 9 | 4/21 | [Introduction to Databases](./classes/17) | |
-| 9 | 4/26 | Advancing in Data Science | **[Final Project 4](./final-project/4) due** |
+| 9 | 4/26 | [Wrapping Up and Next Steps](./classes/18) | **[Final Project 4](./final-project/4) due** |
 | 10 | 4/28 | Final Project Presentations | **[Final Project 5](./final-project/5) due**  |
 | 10 | 5/3 | Final Project Presentations, Part 2 | |
 
-(Syllabus last updated on 4/12/2016)
+(Syllabus last updated on 4/26/2016)
 
 (Flexible class sessions will be finalized after student goals are defined)
 
